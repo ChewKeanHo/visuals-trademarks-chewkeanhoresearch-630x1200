@@ -479,7 +479,7 @@
 	}
 
 	#pattern {
-		--shine-pattern: linear-gradient(-75deg,
+		--shine-pattern: linear-gradient(-90deg,
 						rgba(255,255,255,1) 30%,
 						rgba(255,255,255,.1) 70%,
 						rgba(255,255,255,1) 90%
